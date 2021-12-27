@@ -1,0 +1,191 @@
+@import url("https://fonts.googleapis.com/css2?family=Poiret+One");
+
+body {
+    background: #55007d url("https://floreti.biz/Images/icons_logos/Floreti_mainBanner2_1_25_09.jpg") no-repeat;
+    background-position: top center;
+    margin: 25px; 
+    margin-top: 100px;
+    border-top: 3px solid #ccc;
+    border-bottom: 3px solid #ccc;
+    
+  }
+
+h1 {
+    font-family: "Poiret One", sans-serif;
+    color: #ccc;
+    font-size: 56px;
+    margin: 10px;
+    text-align: center;
+}
+h3 {
+    color: #ccc;
+    font-size: 23px;
+}
+
+.navbar {
+    text-align: center;
+    background-color: #49006b;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    list-style-type: none; 
+    opacity: 0.8;
+}
+
+ul {
+  padding-inline-start: 0px;
+}
+
+.ulindx {
+  padding-inline-start: 40px;
+}
+
+.navlink {
+  display: inline;
+  justify-content: space-evenly;
+}
+
+.nav_links {
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 18px;
+  padding: 14px 14px;
+  transition: 0.3s;
+  opacity: 0.6;
+  background-color: rgb(138, 0, 0);
+  margin: 0px 2px;
+  cursor: pointer;
+  border-radius: 6px;
+  
+}
+
+  li a:link {
+    color: hotpink;
+  }
+ 
+  li a:visited {
+    color: #fff;
+  }
+ 
+  li a:hover {
+    color: red;
+    opacity: 1;
+  }
+  
+  li a:active {
+    color:  rgb(138, 0, 0);
+   
+  }
+
+h2 {
+  text-align: center;
+}
+
+  a:link {
+    color: hotpink;
+  }
+ 
+  a:visited {
+    color: #ccc;
+  }
+ 
+  a:hover {
+    color: red;
+  }
+  
+  a:active {
+    color:  rgb(138, 0, 0);
+  }
+
+  .centerdblk { 
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+
+  .content {
+      color: #ccc;
+      font-size: 20px;
+  }
+
+  .flex-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33%;
+    padding: 12px;
+  }
+
+ #linebrk {
+  position: relative;
+  display: block;
+  padding:10px;
+
+ }
+
+ table {
+   width: 100%
+ }
+
+ tr td {
+   padding: 7px;
+ }
+
+ #lftindt {
+   text-align: left;
+ }
+
+ img, iframe {
+  border: 1px solid #ccc;
+}
+
+iframe {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  padding: 10px 0 0 0;
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+}
+
+.button {
+  background-color: rgb(138, 0, 0);
+  border:maroon solid 1px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+  transition: 0.3s;
+  opacity: 0.6;
+}
+
+.button:hover {
+  opacity: 1;
+}
