@@ -189,3 +189,104 @@ iframe {
 .button:hover {
   opacity: 1;
 }
+
+
+/*Social Links*/
+
+.ulsocial {
+  display: inline-block;
+}
+
+.lisocial {  
+  display: inline-block; 
+  padding: 0;
+  margin-right: 3px;    
+  list-style-type: none;
+} 
+ 
+  a.facebook{     
+  display: block;     
+  width: 24px;     
+  height: 24px;
+  
+  background-image: url('https://cdn2.bigcommerce.com/n-d57o0b/xe52isu5/product_images/uploaded_images/fbook12.png'); 
+  }  
+  a.facebook:hover{  
+
+  background-image: url('https://cdn2.bigcommerce.com/n-d57o0b/xe52isu5/product_images/uploaded_images/fbook11.png'); 
+  } 
+  
+  a.twitter{     
+  display: block;     
+  width: 24px;     
+  height: 24px;     
+  background-image: url('https://cdn2.bigcommerce.com/n-d57o0b/xe52isu5/product_images/uploaded_images/twitter12.png'); 
+  }  
+  a.twitter:hover{    
+  background-image: url('https://cdn2.bigcommerce.com/n-d57o0b/xe52isu5/product_images/uploaded_images/twitter11.png'); 
+  }
+  
+ a.linkedin{     
+  display: block;     
+  width: 24px;     
+  height: 24px;     
+  background-image: url('https://cdn2.bigcommerce.com/n-d57o0b/xe52isu5/product_images/uploaded_images/linkdin12.png'); 
+  }  
+  a.linkedin:hover{    
+  background-image: url('https://cdn2.bigcommerce.com/n-d57o0b/xe52isu5/product_images/uploaded_images/linkdin11.png'); 
+  } 
+  
+  a.stumbleupon{     
+  display: block;     
+  width: 24px;     
+  height: 24px;     
+  background-image: url('https://cdn2.bigcommerce.com/n-d57o0b/xe52isu5/product_images/uploaded_images/stumbleupon12.png'); 
+  }  
+  a.stumbleupon:hover{    
+  background-image: url('https://cdn2.bigcommerce.com/n-d57o0b/xe52isu5/product_images/uploaded_images/stumbleupon11.png'); 
+  } 
+  
+  a.googleplus{     
+  display: block;     
+  width: 24px;     
+  height: 24px;     
+  background-image: url('https://cdn2.bigcommerce.com/n-d57o0b/xe52isu5/product_images/uploaded_images/googleplus12.png'); 
+  }  
+  a.googleplus:hover{    
+  background-image: url('https://cdn2.bigcommerce.com/n-d57o0b/xe52isu5/product_images/uploaded_images/googleplus11.png'); 
+  } 
+  
+  a.pinterest{     
+  display: block;     
+  width: 24px;     
+  height: 24px;     
+  background-image: url('https://cdn2.bigcommerce.com/n-d57o0b/xe52isu5/product_images/uploaded_images/pintrst12.png'); 
+  }  
+  a.pinterest:hover{    
+  background-image: url('https://cdn2.bigcommerce.com/n-d57o0b/xe52isu5/product_images/uploaded_images/pintrst11.png'); 
+  } 
+  
+   a.instagram{     
+  display: block;     
+  width: 24px;     
+  height: 24px;     
+  background-image: url('https://cdn2.bigcommerce.com/n-d57o0b/xe52isu5/product_images/uploaded_images/instagram-26x26.png'); 
+  }  
+  a.instagram:hover{    
+  background-image: url('https://cdn2.bigcommerce.com/n-d57o0b/xe52isu5/product_images/uploaded_images/instagram1-26x26.png'); 
+  } 
+  
+  a.youtube{     
+  display: block;     
+  width: 24px;     
+  height: 24px;     
+  background-image: url('https://cdn2.bigcommerce.com/n-d57o0b/xe52isu5/product_images/uploaded_images/ytube12.png'); 
+  }  
+  a.youtube:hover{    
+  background-image: url('https://cdn2.bigcommerce.com/n-d57o0b/xe52isu5/product_images/uploaded_images/ytube11.png'); 
+  }
+
+  
+  
+     
+ 
